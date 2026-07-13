@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>I am a Web Developer with 1+ year of experience building responsive and scalable web applications using React.js, JavaScript, Tailwind CSS, and Material UI. I contributed to the development and delivery of PlayNow, a production-grade sports booking platform, where I worked on booking systems, payment integrations, real-time workflows, and technical SEO optimization. I am passionate about building high-performance digital products and continuously expanding my expertise in full-stack software development.<br>
+<br>I am a Web Developer with 2+ year of experience building responsive and scalable web applications using React.js, JavaScript, Tailwind CSS, and Material UI. I contributed to the development and delivery of PlayNow, a production-grade sports booking platform, where I worked on booking systems, payment integrations, real-time workflows, and technical SEO optimization. I am passionate about building high-performance digital products and continuously expanding my expertise in full-stack software development.<br>
 
 
 ## 🌐 Socials:
